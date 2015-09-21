@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\FlyScript.cs" />
+     <Compile Include="Assets\IfStatement.cs" />
+     <Compile Include="Assets\IfStatement1.cs" />
+     <Compile Include="Assets\Jump.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
