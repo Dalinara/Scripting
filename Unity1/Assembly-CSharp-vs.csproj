@@ -46,11 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DoWhile.cs" />
      <Compile Include="Assets\FlyScript.cs" />
-     <Compile Include="Assets\IfStatement.cs" />
+     <Compile Include="Assets\For.cs" />
+     <Compile Include="Assets\ForEach.cs" />
      <Compile Include="Assets\IfStatement1.cs" />
      <Compile Include="Assets\Jump.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\While.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
