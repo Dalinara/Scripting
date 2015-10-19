@@ -46,14 +46,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DoWhile.cs" />
-     <Compile Include="Assets\FlyScript.cs" />
-     <Compile Include="Assets\For.cs" />
-     <Compile Include="Assets\ForEach.cs" />
-     <Compile Include="Assets\IfStatement1.cs" />
-     <Compile Include="Assets\Jump.cs" />
-     <Compile Include="Assets\NewBehaviourScript.cs" />
-     <Compile Include="Assets\While.cs" />
+     <Compile Include="Assets\Script\DoWhile.cs" />
+     <Compile Include="Assets\Script\FlyScript.cs" />
+     <Compile Include="Assets\Script\For.cs" />
+     <Compile Include="Assets\Script\ForEach.cs" />
+     <Compile Include="Assets\Script\IfStatement1.cs" />
+     <Compile Include="Assets\Script\Jump.cs" />
+     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Script\Scope\AnotherClass.cs" />
+     <Compile Include="Assets\Script\Scope\Ash.cs" />
+     <Compile Include="Assets\Script\Scope\Scope.cs" />
+     <Compile Include="Assets\Script\Scope\StarterPokemon.cs" />
+     <Compile Include="Assets\Script\While.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
