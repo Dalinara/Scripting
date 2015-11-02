@@ -8,28 +8,26 @@ public class Inventory : MonoBehaviour
 	public class Stuff
 	{
 		public int bullets;
-
-		//Parametized Constructer
-		public Stuff(int bul)
-		{
-			bullets = bul;
-		}
-
-		//Constructor
+		//Constructer
 		public Stuff()
 		{
 			bullets = 1;
 		}
 
+		//Parametized Constructor
+		public Stuff(int bul)
+		{
+			bullets = bul;
+		}
 	}
-
 	//Instance of the class
-	public Stuff myStuff = new Stuff(50);
+		public Stuff myStuff = new Stuff(50);
+	
 
 	void Start()
 	{
 		//Call the class
-		Debug.Log (myStuff.bullets);
+			Debug.Log (myStuff.bullets);
 	}
 
 }
