@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{EC91CB37-21A6-EC32-DD47-187123A29CB0}") = "Unity1", "Assembly-CSharp.csproj", "{8286F7C4-150A-D3AD-171C-F5FB61EF5FCC}"
+Project("{19A0BD0A-72B7-362E-F056-2ED0D8E83D5B}") = "Duck_Hunt", "Assembly-CSharp.csproj", "{5CF8CCB2-DE4F-3D23-B8DF-AD0504F4E163}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8286F7C4-150A-D3AD-171C-F5FB61EF5FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8286F7C4-150A-D3AD-171C-F5FB61EF5FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8286F7C4-150A-D3AD-171C-F5FB61EF5FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8286F7C4-150A-D3AD-171C-F5FB61EF5FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF8CCB2-DE4F-3D23-B8DF-AD0504F4E163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF8CCB2-DE4F-3D23-B8DF-AD0504F4E163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF8CCB2-DE4F-3D23-B8DF-AD0504F4E163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF8CCB2-DE4F-3D23-B8DF-AD0504F4E163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																						GlobalSection(MonoDevelopProperties) = preSolution
+				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
