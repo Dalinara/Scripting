@@ -3,12 +3,18 @@ using System.Collections;
 
 public class Array : MonoBehaviour 
 {
-	int[] myIntArray = {13, 27, 39};
+	public GameObject[] players;
 
 	// Use this for initialization
 	void Start () 
 	{
-		myIntArray [1] = 14;
+		players = GameObject.FindGameObjectsWithTag ("Player");
+
+		for (int i = 0; i < players.Length; i++) 
+		{
+			Debug.Log("Player number " +i+ " is named "+players[i].name);
+		}
+
 	}
 
 }
