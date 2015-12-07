@@ -49,6 +49,7 @@
      <Compile Include="Assets\Script\Array.cs" />
      <Compile Include="Assets\Script\Array02.cs" />
      <Compile Include="Assets\Script\DoWhile.cs" />
+     <Compile Include="Assets\Script\Enum.cs" />
      <Compile Include="Assets\Script\FlyScript.cs" />
      <Compile Include="Assets\Script\For.cs" />
      <Compile Include="Assets\Script\ForEach.cs" />
