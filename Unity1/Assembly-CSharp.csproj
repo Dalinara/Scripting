@@ -63,6 +63,7 @@
      <Compile Include="Assets\Script\Scope\Scope.cs" />
      <Compile Include="Assets\Script\Scope\StarterPokemon.cs" />
      <Compile Include="Assets\Script\Shooting.cs" />
+     <Compile Include="Assets\Script\Switch.cs" />
      <Compile Include="Assets\Script\While.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
